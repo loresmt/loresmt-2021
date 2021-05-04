@@ -33,7 +33,7 @@ License: CC BY-NC-SA 4.0
 =======
 Includes text: yes
 Genre: Sign languague/Covid data
-Shared Task Organisers: Ojha, Atul Kr.; Liu, Chao-Hong, Kann; Katharina, Ortega, John
+Shared Task Organisers: Ojha, Atul Kr.; Liu, Chao-Hong, Kann; Katharina
 Contact: shashwatup9k@gmail.com, chh.liu@gmail.com
 Contributor/&copy;holder: NUI Galway, Panlingua Language Porcessing LLP, N. Delhi, India
 ===============================================================================
