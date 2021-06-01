@@ -39,7 +39,7 @@ loresmt2021/
 -----------------------------------------------------
 ```
 │ Language	       | Total_sentences/ | Total_words     │
-│	               total_segments         	            │ 
+│	                 total_segments         	    │ 
 │English (en)	       │                  │	            │
 │Irish (ga)	       │  		  │                 │
 │Marathi (mr)	       │  		  │                 │
