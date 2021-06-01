@@ -1,6 +1,6 @@
 # Summary
 
-The [LoResMT](https://github.com/panlingua/loresmt-2021/) 2021 Shared Task is a part of the [4th Workshop on Technologies for MT of Low Resource Languages](https://sites.google.com/view/loresmt/).
+The [LoResMT 2021 Shared Task](https://github.com/loresmt/loresmt-2021/) is a part of the [4th Workshop on Technologies for MT of Low Resource Languages](https://sites.google.com/view/loresmt/).
 
 # Introduction
 In the third edition of LoResMT Shared Task, we introduce of new shared tasks that focuses on the building of MT systems for COVID-related texts and Sign language. The task aims to encourage research on MT systems involving three low-resource language pairs:
