@@ -38,11 +38,11 @@ loresmt2021/
 **The data Statistics are presented below:
 -----------------------------------------------------
 ```
-│ Language	   | Total_sentences/ | Total_words     │
-│	               total_segments         	          │ 
-│English (en)	   │                  │	          │
-│Irish (ga)	   │  		  │                 │
-│Marathi (mr)	   │  		  │                 │
+│ Language	       | Total_sentences/ | Total_words     │
+│	               total_segments         	            │ 
+│English (en)	       │                  │	            │
+│Irish (ga)	       │  		  │                 │
+│Marathi (mr)	       │  		  │                 │
 │English-Irish(dev)    │  500		  │                 │
 │English-Marathi(dev)  │  500             │  11901/10937    │
 │English-Irish(train)  │		  │                 │
