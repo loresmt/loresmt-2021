@@ -45,12 +45,12 @@ loresmt2021/
 │Marathi (mr)	       │  		  │                 │
 │English-Irish(dev)    │  500		  │                 │
 │English-Marathi(dev)  │  500             │  11901/10937    │
-│English-Irish(train)  │		  │                 │
+│English-Irish(train)  │  20000		  │                 │
 │English-Marathi(train)│  20933           │ 356456/292561   │
-│English-Irish (test)  │                  │                 │
-│English-Marathi(test) │                  │                 │
-│Irish-English (test)  │                  │                 │
-│Marathi-English (test)│                  │                 │
+│English-Irish (test)  │  1000            │                 │
+│English-Marathi(test) │  1000            │                 │
+│Irish-English (test)  │  1000            │                 │
+│Marathi-English (test)│  1000            │                 │
 │Taiwanese-Mandarin    │                  │                 │
 │ (train)              │                  │                 │
 │Taiwanese-Mandarin    │                  │                 │
