@@ -30,8 +30,8 @@ loresmt2021/
 │  ├─ sign_language/
 └     └─ README.md
 │  ├─ test/
-├─ license.md
-├─ license.txt
+├─ LICENSE.md
+├─ LICENSE.txt
 ├─ README.md
    
 ```
@@ -57,6 +57,8 @@ loresmt2021/
 │ (test)               │                  │                 │
 ```
 
+# License
+Please see the [LICENSE](https://github.com/loresmt/loresmt-2021/blob/main/LICENSE) file.
 
 # Acknowledgments
 We would like to thanks [CARDAMOM-Comparative Deep Models of Language for Minority and Historical Languages](http://www.cardamom-project.org/) (funded by the Irish Research Council under the Consolidator Laureate Award scheme (grant number IRCLA/2017/129)) and [Panlingua Language Processing LLP](http://panlingua.co.in/) to provide English-Irish and English-Marathi parallel and monolingual COVID data.
