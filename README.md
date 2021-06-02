@@ -35,7 +35,7 @@ loresmt2021/
 ├─ README.md
    
 ```
-**The data Statistics are presented below:
+**The data statistics are presented below:
 -----------------------------------------------------
 ```
 │ Language	       | Total_sentences/ | Total_words     │
