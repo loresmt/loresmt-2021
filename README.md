@@ -3,7 +3,7 @@
 The [LoResMT 2021 Shared Task](https://github.com/loresmt/loresmt-2021) is a part of the [4th Workshop on Technologies for MT of Low Resource Languages](https://sites.google.com/view/loresmt/).
 
 # Introduction
-In the third edition of LoResMT Shared Task, we introduce of new shared tasks that focuses on the building of MT systems for COVID-related texts and Sign language. The task aims to encourage research on MT systems involving three low-resource language pairs:
+In the third edition of the __LoResMT Shared Task__, we introduce new shared tasks that focus on the building of MT systems for COVID-related texts and Sign language. The task aims to encourage research on MT systems involving three low-resource language pairs:
 
 	Taiwanese-Mandarin (Sign language)
 	English-Marathi
@@ -61,7 +61,7 @@ loresmt2021/
 Please see the [LICENSE](https://github.com/loresmt/loresmt-2021/blob/main/LICENSE) file.
 
 # Acknowledgments
-We would like to thanks [CARDAMOM-Comparative Deep Models of Language for Minority and Historical Languages](http://www.cardamom-project.org/) (funded by the Irish Research Council under the Consolidator Laureate Award scheme (grant number IRCLA/2017/129)) and [Panlingua Language Processing LLP](http://panlingua.co.in/) to provide English-Irish and English-Marathi parallel and monolingual COVID data.
+We would like to thank [Cardamom-Comparative Deep Models of Language for Minority and Historical Languages](http://www.cardamom-project.org/) (funded by the Irish Research Council under the Consolidator Laureate Award scheme (grant number IRCLA/2017/129)) and [Panlingua Language Processing LLP](http://panlingua.co.in/) for providing English-Irish and English-Marathi parallel and monolingual COVID data.
 
 ## References
 TBD
