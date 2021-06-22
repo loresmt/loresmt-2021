@@ -25,7 +25,6 @@ loresmt2021/
 │     └─ train.en
 │  ├─ monolingual/
 │  │  └─ mono.covid-2021.en
-│     └─ mono.covid.2021.ga
 │     └─ mono.covid.2021.mr
 │  ├─ sign_language/
 └     └─ README.md
@@ -41,11 +40,10 @@ loresmt2021/
 │ Language	       | Total_sentences/ | Total_words     │
 │	                 total_segments         	    │ 
 │English (en)	       │                  │	            │
-│Irish (ga)	       │  		  │                 │
 │Marathi (mr)	       │  		  │                 │
-│English-Irish(dev)    │  500		  │                 │
+│English-Irish(dev)    │  500		  │  7758/9452      │
 │English-Marathi(dev)  │  500             │  11901/10937    │
-│English-Irish(train)  │  20000		  │                 │
+│English-Irish(train)  │  10000		  │                 │
 │English-Marathi(train)│  20933           │ 356456/292561   │
 │English-Irish (test)  │  1000            │                 │
 │English-Marathi(test) │  1000            │                 │
