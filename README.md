@@ -39,7 +39,7 @@ loresmt2021/
 ```
 │ Language	       | Total_sentences/ | Total_words     │
 │	                 total_segments         	    │ 
-│English (en)	       │  10000           │	            │
+│English (en)	       │  8826            │  171249	    │
 │Marathi (mr)	       │  21902	          │  285502         │
 │English↔Irish(dev)    │  500		  │  7758/9452      │
 │English↔Marathi(dev)  │  500             │  11901/10937    │
