@@ -27,7 +27,12 @@ loresmt2021/
 │  │  └─ mono.covid-2021.en
 │     └─ mono.covid.2021.mr
 │  ├─ sign_language/
-└     └─ README.md
+|     ├─ train/
+|     ├─ dev(development)/
+|      └─ C00261
+|      └─ C00304
+|      └─ C00358
+|     └─ README.md
 │  ├─ test/
 ├─ LICENSE.md
 ├─ LICENSE.txt
