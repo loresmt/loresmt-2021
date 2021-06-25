@@ -49,6 +49,8 @@ loresmt2021/
 │English↔Marathi(test) │  1000            │                 │
 │Taiwanese↔Mandarin    │                  │                 │
 │ (train)              │                  │                 │
+│Taiwanese↔Mandarin    │  3071            │                 │
+│ (dev)                │                  │                 │
 │Taiwanese↔Mandarin    │                  │                 │
 │ (test)               │                  │                 │
 ```
