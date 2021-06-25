@@ -5,9 +5,9 @@ The [LoResMT 2021 Shared Task](https://github.com/loresmt/loresmt-2021) is a par
 # Introduction
 In the third edition of the __LoResMT Shared Task__, we introduce new shared tasks that focus on the building of MT systems for COVID-related texts and Sign language. The task aims to encourage research on MT systems involving three low-resource language pairs:
 
-	Taiwanese-Mandarin (Sign language)
-	English-Marathi
-	English-Irish
+	Taiwanese↔Mandarin (Sign language)
+	English↔Marathi
+	English↔Irish
 ## Structure of the `LoResMT-2021 Shared Task data`:
 ```
 loresmt2021/
@@ -41,17 +41,15 @@ loresmt2021/
 │	                 total_segments         	    │ 
 │English (en)	       │  10000           │	            │
 │Marathi (mr)	       │  21902	          │  285502         │
-│English-Irish(dev)    │  500		  │  7758/9452      │
-│English-Marathi(dev)  │  500             │  11901/10937    │
-│English-Irish(train)  │  		  │                 │
-│English-Marathi(train)│  20933           │ 356456/292561   │
-│English-Irish (test)  │  1000            │                 │
-│English-Marathi(test) │  1000            │                 │
-│Irish-English (test)  │  1000            │                 │
-│Marathi-English (test)│  1000            │                 │
-│Taiwanese-Mandarin    │                  │                 │
+│English↔Irish(dev)    │  500		  │  7758/9452      │
+│English↔Marathi(dev)  │  500             │  11901/10937    │
+│English↔Irish(train)  │  		  │                 │
+│English↔Marathi(train)│  20933           │ 356456/292561   │
+│English↔Irish (test)  │  1000            │                 │
+│English↔Marathi(test) │  1000            │                 │
+│Taiwanese↔Mandarin    │                  │                 │
 │ (train)              │                  │                 │
-│Taiwanese-Mandarin    │                  │                 │
+│Taiwanese↔Mandarin    │                  │                 │
 │ (test)               │                  │                 │
 ```
 
@@ -64,7 +62,7 @@ We would like to thank [Cardamom-Comparative Deep Models of Language for Minorit
 ## References
 TBD
 <pre>
-=== Machine-readable metadata (DO NOT REMOVE!) ================================
+=== Machine-readable metadata (DO NOT REMOVE!) =====================================================
 Data available since: LoResMT Shared Task-2021
 License: CC BY-NC-SA 4.0
 =======
@@ -72,6 +70,6 @@ Includes text/video: yes
 Genre: Sign language/COVID data
 Shared Task Organisers: Ojha, Atul Kr.; Liu, Chao-Hong; Kann, Katharina
 Contact: atulkumar.ojha@insight-centre.org, shashwatup9k@gmail.com, ch.liu@acm.org
-Contributor/&copy;holder: NUI Galway, Panlingua Language Processing LLP, N. Delhi, India
-===============================================================================
+Contributor/&copy;holder: NUI Galway, Panlingua Language Processing LLP, N. Delhi, India, Potamu Research Ltd
+=======================================================================================================
 </pre>
