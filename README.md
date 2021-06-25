@@ -70,7 +70,7 @@ License: CC BY-NC-SA 4.0
 =======
 Includes text/video: yes
 Genre: Sign language/COVID data
-Shared Task Organisers: Ojha, Atul Kr.; Liu, Chao-Hong; Kann, Katharina; Ortega, John
+Shared Task Organisers: Ojha, Atul Kr.; Liu, Chao-Hong; Kann, Katharina
 Contact: atulkumar.ojha@insight-centre.org, shashwatup9k@gmail.com, ch.liu@acm.org
 Contributor/&copy;holder: NUI Galway, Panlingua Language Processing LLP, N. Delhi, India
 ===============================================================================
