@@ -62,7 +62,7 @@ loresmt2021/
 Please see the [LICENSE](https://github.com/loresmt/loresmt-2021/blob/main/LICENSE) file.
 
 # Acknowledgments
-We would like to thank [Cardamom-Comparative Deep Models of Language for Minority and Historical Languages](http://www.cardamom-project.org/) (funded by the Irish Research Council under the Consolidator Laureate Award scheme (grant number IRCLA/2017/129)) and [Panlingua Language Processing LLP](http://panlingua.co.in/) for providing English-Irish and English-Marathi parallel and/or monolingual COVID data. We would also like to thanks [Potamu Research Ltd](https://www.potamure.net/) and thier colloborators for providing Taiwanese↔Mandarin Sign langauge data. 
+We would like to thank [Cardamom-Comparative Deep Models of Language for Minority and Historical Languages](http://www.cardamom-project.org/) (funded by the Irish Research Council under the Consolidator Laureate Award scheme (grant number IRCLA/2017/129)) and [Panlingua Language Processing LLP](http://panlingua.co.in/) for providing English↔Irish and English↔Marathi parallel and/or monolingual COVID data. We would also like to thanks [Potamu Research Ltd](https://www.potamure.net/) and thier colloborators for providing Taiwanese↔Mandarin Sign langauge data. 
 
 ## References
 TBD
