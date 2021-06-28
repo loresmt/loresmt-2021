@@ -29,9 +29,7 @@ loresmt2021/
 │  ├─ sign_language/
 |     ├─ train/
 |     ├─ dev(development)/
-|      └─ C00261
-|      └─ C00304
-|      └─ C00358
+|      └─ C00(261,304,358)
 |     └─ README.md
 │  ├─ test/
 ├─ LICENSE.md
@@ -46,9 +44,9 @@ loresmt2021/
 │	                 total_segments         	    │ 
 │English (en)	       │  8826            │  171249	    │
 │Marathi (mr)	       │  21902	          │  285502         │
-│English↔Irish(dev)    │  500		  │  7758/9452      │
+│English↔Irish(dev)    │  502		  │  7731/9406      │
 │English↔Marathi(dev)  │  500             │  11901/10937    │
-│English↔Irish(train)  │  		  │                 │
+│English↔Irish(train)  │  8112		  │ 126980/144258   │
 │English↔Marathi(train)│  20933           │ 356456/292561   │
 │English↔Irish (test)  │  1000            │                 │
 │English↔Marathi(test) │  1000            │                 │
@@ -64,7 +62,7 @@ loresmt2021/
 Please see the [LICENSE](https://github.com/loresmt/loresmt-2021/blob/main/LICENSE) file.
 
 # Acknowledgments
-We would like to thank [Cardamom-Comparative Deep Models of Language for Minority and Historical Languages](http://www.cardamom-project.org/) (funded by the Irish Research Council under the Consolidator Laureate Award scheme (grant number IRCLA/2017/129)) and [Panlingua Language Processing LLP](http://panlingua.co.in/) for providing English-Irish and English-Marathi parallel and monolingual COVID data.
+We would like to thank [Cardamom-Comparative Deep Models of Language for Minority and Historical Languages](http://www.cardamom-project.org/) (funded by the Irish Research Council under the Consolidator Laureate Award scheme (grant number IRCLA/2017/129)) and [Panlingua Language Processing LLP](http://panlingua.co.in/) for providing English-Irish and English-Marathi parallel and/or monolingual COVID data. We would also like to thanks [Potamu Research Ltd](https://www.potamure.net/) and thier colloborators for providing Taiwanese↔Mandarin Sign langauge data. 
 
 ## References
 TBD
