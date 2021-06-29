@@ -28,6 +28,7 @@ loresmt2021/
 │     └─ mono.covid.2021.mr
 │  ├─ sign_language/
 |     ├─ train/
+|      └─ C00(185-195,197,199,200-294,296-297,299-301,305)
 |     ├─ dev(development)/
 |      └─ C00(261,304,358)
 |     └─ README.md
