@@ -49,7 +49,7 @@ loresmt2021/
 │English↔Marathi(dev)  │  500             │  11901/10937    │
 │English↔Irish(train)  │  8112		  │ 126980/144258   │
 │English↔Marathi(train)│  20933           │ 356456/292561   │
-│English↔Irish (test)  │  1000            │                 │
+│English↔Irish (test)  │  750             │                 │
 │English↔Marathi(test) │  1000            │                 │
 │Taiwanese↔Mandarin    │                  │                 │
 │ (train)              │                  │                 │
