@@ -74,7 +74,7 @@ title = "Findings of the LoResMT 2021 Shared Task on COVID and Sign Language for
   month = aug,
   year = "2021"
 }
-</pre
+</pre>
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) =====================================================
 Data available since: LoResMT Shared Task-2021
