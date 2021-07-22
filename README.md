@@ -68,11 +68,10 @@ We would like to thank [Cardamom-Comparative Deep Models of Language for Minorit
 ## References
 <pre>
 @inproceedings{ojha-etal-2021-findings,
-title = "Findings of the LoResMT 2021 Shared Task on COVID and Sign Language for Low-Resource Languages",
-  author = "Ojha, Atul Kr. and Liu, Chao-Hong  and Kann, Katharina  and Ortega, John and Satam, Sheetal and Fransen, Theodorus",
-  booktitle = {"Proceedings of the 4th Workshop on Technologies for MT of Low Resource Languages"},
-  month = aug,
-  year = "2021"
+title = {Findings of the {LoResMT 2021 Shared Task on COVID and Sign Language for Low-Resource Languages}},
+  author = {Ojha, Atul Kr. and Liu, Chao-Hong  and Kann, Katharina  and Ortega, John and Satam, Sheetal and Fransen, Theodorus},
+  booktitle = {Proceedings of the 4th Workshop on Technologies for MT of Low Resource Languages},
+  year = {2021}
 }
 </pre>
 <pre>
