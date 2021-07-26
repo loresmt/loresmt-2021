@@ -32,7 +32,7 @@ loresmt2021/
 |     ├─ dev(development)/
 |      └─ C00(261,304,358)
 |     └─ README.md
-│  ├─ test/
+│     ├─ test/
 ├─ LICENSE.md
 ├─ LICENSE.txt
 ├─ README.md
@@ -51,7 +51,7 @@ loresmt2021/
 │English↔Marathi(train)│  20933           │ 356456/292561   │
 │English↔Irish (test)  │  750             │                 │
 │English↔Marathi(test) │  1000            │                 │
-│Taiwanese↔Mandarin    │                  │                 │
+│Taiwanese↔Mandarin    │  129303          │                 │
 │ (train)              │                  │                 │
 │Taiwanese↔Mandarin    │  3071            │  5027           │
 │ (dev)                │                  │                 │
