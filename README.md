@@ -18,21 +18,28 @@ loresmt2021/
 │     └─ train.mr
 │     └─ dev.en
 │     └─ dev.mr
+│     └─ test.en2mr.en
+│     └─ test.mr2en.mr
 │  ├─ en-ga/
 │     └─ train.en
 │     └─ train.en
-│     └─ train.en
-│     └─ train.en
+│     └─ dev.en
+│     └─ dev.ga
+│     └─ test.en2ga.en
+│     └─ test.en2ga.ga
+│     └─ test.ga2en.en
+│     └─ test.ga2en.ga
 │  ├─ monolingual/
 │  │  └─ mono.covid-2021.en
 │     └─ mono.covid.2021.mr
 │  ├─ sign_language/
 |     ├─ train/
-|      └─ C00(185-195,197,199,200-294,296-297,299-301,305-361)
+|      └─ C00(185-195,197,199,200-294,296-297,299-301 & 305-361)
 |     ├─ dev(development)/
-|      └─ C00(261,304,358)
+|      └─ C00(261,304 & 358)
 |     └─ README.md
 │     ├─ test/
+|      └─ sgTW2zhTW & zhTW2sgTW
 ├─ LICENSE.md
 ├─ LICENSE.txt
 ├─ README.md
@@ -55,7 +62,7 @@ loresmt2021/
 │ (train)              │                  │                 │
 │Taiwanese↔Mandarin    │  3071            │  5027           │
 │ (dev)                │                  │                 │
-│Taiwanese↔Mandarin    │                  │                 │
+│Taiwanese↔Mandarin    │  7053            │                 │
 │ (test)               │                  │                 │
 ```
 
