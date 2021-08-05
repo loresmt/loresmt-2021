@@ -52,10 +52,10 @@ loresmt2021/
 │Marathi (mr)	       │  21902	          │  285502         │
 │English↔Irish(dev)    │  502		  │  7731/9406      │
 │English↔Marathi(dev)  │  500             │  11901/10937    │
-│English↔Irish(train)  │  8112		  │ 126980/144258   │
-│English↔Marathi(train)│  20933           │ 356456/292561   │
-│English↔Irish (test)  │  750             │ 9831/12207      │
-│English↔Marathi(test) │  1000            │ 14233/11927     │
+│English↔Irish(train)  │  8112		  │  126980/144258  │
+│English↔Marathi(train)│  20933           │  356456/292561  │
+│English↔Irish (test)  │  750             │  9831/12207     │
+│English↔Marathi(test) │  1000            │  14233/11927    │
 │Taiwanese↔Mandarin    │  128608          │    -            │
 │ (train)              │                  │                 │
 │Taiwanese↔Mandarin    │  3071            │  5027           │
