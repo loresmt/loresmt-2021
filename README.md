@@ -18,17 +18,15 @@ loresmt2021/
 │     └─ train.mr
 │     └─ dev.en
 │     └─ dev.mr
-│     └─ test.en2mr.en
-│     └─ test.mr2en.mr
+│     └─ test.en-mr.en
+│     └─ test.mr-en.mr
 │  ├─ en-ga/
 │     └─ train.en
 │     └─ train.en
 │     └─ dev.en
 │     └─ dev.ga
-│     └─ test.en2ga.en
-│     └─ test.en2ga.ga
-│     └─ test.ga2en.en
-│     └─ test.ga2en.ga
+│     └─ test.en-ga.en
+│     └─ test.en-ga.ga
 │  ├─ monolingual/
 │  │  └─ mono.covid-2021.en
 │     └─ mono.covid.2021.mr
@@ -58,7 +56,7 @@ loresmt2021/
 │English↔Marathi(train)│  20933           │ 356456/292561   │
 │English↔Irish (test)  │  750             │                 │
 │English↔Marathi(test) │  1000            │                 │
-│Taiwanese↔Mandarin    │  129303          │                 │
+│Taiwanese↔Mandarin    │  128608          │                 │
 │ (train)              │                  │                 │
 │Taiwanese↔Mandarin    │  3071            │  5027           │
 │ (dev)                │                  │                 │
@@ -70,7 +68,7 @@ loresmt2021/
 Please see the [LICENSE](https://github.com/loresmt/loresmt-2021/blob/main/LICENSE) file.
 
 # Acknowledgments
-We would like to thank [Cardamom-Comparative Deep Models of Language for Minority and Historical Languages](http://www.cardamom-project.org/) (funded by the Irish Research Council under the Consolidator Laureate Award scheme (grant number IRCLA/2017/129)) and [Panlingua Language Processing LLP](http://panlingua.co.in/) for providing English↔Irish and English↔Marathi parallel and/or monolingual COVID data. We would also like to thanks [Potamu Research Ltd](https://www.potamure.net/) and their colloborators for providing Taiwanese↔Mandarin Sign language data. 
+We would like to thank [Cardamom-Comparative Deep Models of Language for Minority and Historical Languages](http://www.cardamom-project.org/) (funded by the Irish Research Council under the Consolidator Laureate Award scheme (grant number IRCLA/2017/129)) and [Panlingua Language Processing LLP](http://panlingua.co.in/) for providing English↔Irish and English↔Marathi parallel and/or monolingual COVID data. We would also like to thanks [Potamu Research Ltd](https://www.potamure.net/) for providing Taiwanese↔Mandarin (Traditional Chinese ) Sign language data. 
 
 ## References
 <pre>
