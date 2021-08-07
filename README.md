@@ -40,6 +40,7 @@ loresmt2021/
 |      └─ sgTW2zhTW & zhTW2sgTW
 ├─ LICENSE.md
 ├─ LICENSE.txt
+├─ LoResMT Shared Task Results (LoResMT2021_SharedTask_SystemResults.pdf)
 ├─ README.md
    
 ```
