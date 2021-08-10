@@ -5,7 +5,7 @@ The [LoResMT 2021 Shared Task](https://github.com/loresmt/loresmt-2021) is a par
 # Introduction
 In the third edition of the __LoResMT Shared Task__, we introduce new shared tasks that focus on the building of MT systems for COVID-related texts and Sign language. The task aims to encourage research on MT systems involving three low-resource language pairs:
 
-	Taiwanese Sign Language ↔ Traditional Chinese
+	Taiwanese Sign Language↔Traditional Chinese
 	English↔Marathi
 	English↔Irish
 ## Structure of the `LoResMT-2021 Shared Task data`:
@@ -57,11 +57,11 @@ loresmt2021/
 │English↔Marathi(train)│  20933           │  356456/292561  │
 │English↔Irish (test)  │  750             │  9831/12207     │
 │English↔Marathi(test) │  1000            │  14233/11927    │
-│Taiwanese↔Traditional │  128608          │    -            │
+│Taiwanese↔Traditional │  128608          │    ---          │
 │ Chinese (train)      │                  │                 │
 │Taiwanese↔Traditional │  3071            │  5027           │
 │ Chinese (dev)        │                  │                 │
-│Taiwanese↔Traditional │  7053            │                 │
+│Taiwanese↔Traditional │  7053            │   ---           │
 │Chinese (test)        │                  │                 │
 ```
 
