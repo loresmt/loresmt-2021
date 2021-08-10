@@ -57,11 +57,11 @@ loresmt2021/
 │English↔Marathi(train)│  20933           │  356456/292561  │
 │English↔Irish (test)  │  750             │  9831/12207     │
 │English↔Marathi(test) │  1000            │  14233/11927    │
-│Taiwanese↔Traditional │  128608          │    ---          │
+│Taiwanese↔Traditional │  128608          │  ---            │
 │ Chinese (train)      │                  │                 │
 │Taiwanese↔Traditional │  3071            │  5027           │
 │ Chinese (dev)        │                  │                 │
-│Taiwanese↔Traditional │  7053            │   ---           │
+│Taiwanese↔Traditional │  7053            │  ---            │
 │Chinese (test)        │                  │                 │
 ```
 
