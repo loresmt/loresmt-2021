@@ -11,7 +11,6 @@ In the third edition of the __LoResMT Shared Task__, we introduce new shared tas
 ## Structure of the `LoResMT-2021 Shared Task data`:
 ```
 loresmt2021/
-├─ baseline_system/
 ├─ data/
 │  ├─ en-mr/
 │     └─ train.en
