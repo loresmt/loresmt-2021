@@ -5,7 +5,7 @@ The [LoResMT 2021 Shared Task](https://github.com/loresmt/loresmt-2021) is a par
 # Introduction
 In the third edition of the __LoResMT Shared Task__, we introduce new shared tasks that focus on the building of MT systems for COVID-related texts and Sign language. The task aims to encourage research on MT systems involving three low-resource language pairs:
 
-	Taiwanese↔Mandarin (Traditional Chinese) Sign language
+	Taiwanese Sign Language ↔ Traditional Chinese
 	English↔Marathi
 	English↔Irish
 ## Structure of the `LoResMT-2021 Shared Task data`:
@@ -57,19 +57,19 @@ loresmt2021/
 │English↔Marathi(train)│  20933           │  356456/292561  │
 │English↔Irish (test)  │  750             │  9831/12207     │
 │English↔Marathi(test) │  1000            │  14233/11927    │
-│Taiwanese↔Mandarin    │  128608          │    -            │
-│ (train)              │                  │                 │
-│Taiwanese↔Mandarin    │  3071            │  5027           │
-│ (dev)                │                  │                 │
-│Taiwanese↔Mandarin    │  7053            │                 │
-│ (test)               │                  │                 │
+│Taiwanese↔Traditional │  128608          │    -            │
+│ Chinese (train)      │                  │                 │
+│Taiwanese↔Traditional │  3071            │  5027           │
+│ Chinese (dev)        │                  │                 │
+│Taiwanese↔Traditional │  7053            │                 │
+│Chinese (test)        │                  │                 │
 ```
 
 # License
 Please see the [LICENSE](https://github.com/loresmt/loresmt-2021/blob/main/LICENSE) file.
 
 # Acknowledgments
-We would like to thank [Cardamom-Comparative Deep Models of Language for Minority and Historical Languages](http://www.cardamom-project.org/) (funded by the Irish Research Council under the Consolidator Laureate Award scheme (grant number IRCLA/2017/129)) and [Panlingua Language Processing LLP](http://panlingua.co.in/) for providing English↔Irish and English↔Marathi parallel and/or monolingual COVID data. We would also like to thank [Potamu Research Ltd](https://www.potamure.net/) for providing Taiwanese↔Mandarin (Traditional Chinese ) Sign language data. 
+We would like to thank [Cardamom-Comparative Deep Models of Language for Minority and Historical Languages](http://www.cardamom-project.org/) (funded by the Irish Research Council under the Consolidator Laureate Award scheme (grant number IRCLA/2017/129)) and [Panlingua Language Processing LLP](http://panlingua.co.in/) for providing English↔Irish and English↔Marathi parallel and/or monolingual COVID data. We would also like to thank [Potamu Research Ltd](https://www.potamure.net/) for providing Taiwanese Sign Language ↔ Traditional Chinese data. 
 
 ## References
 <pre>
