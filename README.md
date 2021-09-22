@@ -73,11 +73,23 @@ We would like to thank [Cardamom-Comparative Deep Models of Language for Minorit
 ## References
 <pre>
 @inproceedings{ojha-etal-2021-findings,
-title = {Findings of the {LoResMT 2021 Shared Task on COVID and Sign Language for Low-Resource Languages}},
-  author = {Ojha, Atul Kr. and Liu, Chao-Hong  and Kann, Katharina  and Ortega, John and Satam, Sheetal and Fransen, Theodorus},
-  booktitle = {Proceedings of the 4th Workshop on Technologies for MT of Low Resource Languages},
-  year = {2021}
+    title = "Findings of the {L}o{R}es{MT} 2021 Shared Task on {COVID} and Sign Language for Low-resource Languages",
+    author = "Ojha, Atul Kr.  and
+      Liu, Chao-Hong  and
+      Kann, Katharina  and
+      Ortega, John  and
+      Shatam, Sheetal  and
+      Fransen, Theodorus",
+    booktitle = "Proceedings of the 4th Workshop on Technologies for MT of Low Resource Languages (LoResMT2021)",
+    month = aug,
+    year = "2021",
+    address = "Virtual",
+    publisher = "Association for Machine Translation in the Americas",
+    url = "https://aclanthology.org/2021.mtsummit-LoResMT.11",
+    pages = "114--123",
+    abstract = "We present the findings of the LoResMT 2021 shared task which focuses on machine translation (MT) of COVID-19 data for both low-resource spoken and sign languages. The organization of this task was conducted as part of the fourth workshop on technologies for machine translation of low resource languages (LoResMT). Parallel corpora is presented and publicly available which includes the following directions: English↔Irish, English↔Marathi, and Taiwanese Sign language↔Traditional Chinese. Training data consists of 8112, 20933 and 128608 segments, respectively. There are additional monolingual data sets for Marathi and English that consist of 21901 segments. The results presented here are based on entries from a total of eight teams. Three teams submitted systems for English↔Irish while five teams submitted systems for English↔Marathi. Unfortunately, there were no systems submissions for the Taiwanese Sign language↔Traditional Chinese task. Maximum system performance was computed using BLEU and follow as 36.0 for English{--}Irish, 34.6 for Irish{--}English, 24.2 for English{--}Marathi, and 31.3 for Marathi{--}English.",
 }
+
 </pre>
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) =====================================================
